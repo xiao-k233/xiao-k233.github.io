@@ -2,18 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiao-k233.github.io</id>
     <title>Xiaok‘s Note</title>
-    <updated>2020-03-14T04:51:04.286Z</updated>
+    <updated>2020-03-30T12:26:26.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiao-k233.github.io"/>
     <link rel="self" href="https://xiao-k233.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>xiaok,MyBit服务器腐竹,易语言开发者,C++菜鸡
+py菜鸡,Minecraft死忠党</subtitle>
     <logo>https://xiao-k233.github.io/images/avatar.png</logo>
     <icon>https://xiao-k233.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Xiaok‘s Note</rights>
     <entry>
         <title type="html"><![CDATA[首次使用电报]]></title>
-        <id>https://xiao-k233.github.io/post/shou-ci-shi-yong-dian-bao/</id>
-        <link href="https://xiao-k233.github.io/post/shou-ci-shi-yong-dian-bao/">
+        <id>https://xiao-k233.github.io/shou-ci-shi-yong-dian-bao/</id>
+        <link href="https://xiao-k233.github.io/shou-ci-shi-yong-dian-bao/">
         </link>
         <updated>2020-03-14T04:08:30.000Z</updated>
         <content type="html"><![CDATA[<p>在XTC联盟的群中有人让我加TG群，我一想：嗯？Telegram？就是那个VPN十分热爱的群聊软件？我于是根据一位群员编写的教程，注册liuliss.top然后SSR，打开TG、注册。<br>
@@ -24,8 +25,8 @@ ohhhhhhhhhhhhhhhhhh！成功了，我又加了TG代理频道，使用TG代理。
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://xiao-k233.github.io/post/hello-gridea/</id>
-        <link href="https://xiao-k233.github.io/post/hello-gridea/">
+        <id>https://xiao-k233.github.io/hello-gridea/</id>
+        <link href="https://xiao-k233.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
