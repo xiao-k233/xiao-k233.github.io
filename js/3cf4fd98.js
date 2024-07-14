@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){setTimeout(()=>{var e;null!=(e=document.querySelector(".slogan"))&&e.classList.add("fin")},250)});

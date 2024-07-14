@@ -1,0 +1,1 @@
+@keyframes zoomIn{0%{opacity:0;transform:scale(.8)}to{opacity:1;transform:scale(1)}}.weather{animation:zoomIn .5s ease-out 1s forwards}
